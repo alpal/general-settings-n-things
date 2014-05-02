@@ -124,6 +124,7 @@ set switchbuf=useopen
 
 " }}}
 " {{{ colors
+colorscheme desert
 highlight SpecialKey cterm=bold ctermfg=0
 " tabe line colors
 highlight TabLineFill ctermfg=DarkGray
